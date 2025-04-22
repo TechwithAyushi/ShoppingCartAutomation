@@ -1,0 +1,190 @@
+14:46:27.495 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ayush\Documents\workspace\OpencartProject\master.xml
+
+14:46:27.646 [main] INFO  TestCases.TC001_AccountregistrationTest - gridURL:http://192.168.198.1:4444/wd/hub, OS: Windows, Browser: chrome
+14:46:28.180 [main] INFO  TestCases.TC001_AccountregistrationTest - Grid URL: http://192.168.198.1:4444/wd/hub
+14:46:28.180 [main] INFO  TestCases.TC001_AccountregistrationTest - RemoteDriver instance created for grid in headless mode for Chrome
+14:46:31.366 [main] INFO  TestCases.TC001_AccountregistrationTest - Browser setup completed and application loaded.
+14:46:31.380 [main] INFO  TestCases.TC001_AccountregistrationTest -  ******** Starting TC001_AccountregistrationTest ***********
+14:46:31.451 [main] INFO  TestCases.TC001_AccountregistrationTest - Click on My Account
+14:46:32.075 [main] INFO  TestCases.TC001_AccountregistrationTest - Click on Register Link
+14:46:32.076 [main] INFO  TestCases.TC001_AccountregistrationTest - Providing Cutomer Details
+14:46:33.297 [main] INFO  TestCases.TC001_AccountregistrationTest - Validating expected message..
+14:47:00.794 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ayush\Documents\workspace\OpencartProject\master.xml
+
+14:47:00.960 [main] INFO  TestCases.TC001_AccountregistrationTest - gridURL:http://192.168.198.1:4444/wd/hub, OS: Windows, Browser: chrome
+14:58:29.508 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ayush\Documents\workspace\OpencartProject\master.xml
+
+14:58:29.649 [main] INFO  TestCases.TC001_AccountregistrationTest - selenuimGrid:true, OS: Windows, Browser: chrome
+14:58:31.063 [main] INFO  TestCases.TC001_AccountregistrationTest - Grid URL: http://192.168.198.1:4444/wd/hub
+14:58:31.064 [main] INFO  TestCases.TC001_AccountregistrationTest - RemoteDriver instance created for grid in headless mode for Chrome
+14:58:34.347 [main] INFO  TestCases.TC001_AccountregistrationTest - Browser setup completed and application loaded.
+14:58:34.360 [main] INFO  TestCases.TC001_AccountregistrationTest -  ******** Starting TC001_AccountregistrationTest ***********
+14:58:34.435 [main] INFO  TestCases.TC001_AccountregistrationTest - Click on My Account
+14:58:35.051 [main] INFO  TestCases.TC001_AccountregistrationTest - Click on Register Link
+14:58:35.052 [main] INFO  TestCases.TC001_AccountregistrationTest - Providing Cutomer Details
+14:58:36.270 [main] INFO  TestCases.TC001_AccountregistrationTest - Validating expected message..
+15:09:53.623 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ayush\Documents\workspace\OpencartProject\master.xml
+
+15:09:53.757 [main] INFO  TestCases.TC001_AccountregistrationTest - selenuimGrid:true, OS: Windows, Browser: chrome
+15:09:54.905 [main] INFO  TestCases.TC001_AccountregistrationTest - Grid URL: http://192.168.198.1:4444/wd/hub
+15:09:54.905 [main] INFO  TestCases.TC001_AccountregistrationTest - RemoteDriver instance created for grid in headless mode for Chrome
+15:09:57.349 [main] INFO  TestCases.TC001_AccountregistrationTest - Browser setup completed and application loaded.
+15:09:57.360 [main] INFO  TestCases.TC001_AccountregistrationTest -  ******** Starting TC001_AccountregistrationTest ***********
+15:09:57.445 [main] INFO  TestCases.TC001_AccountregistrationTest - Click on My Account
+15:09:58.061 [main] INFO  TestCases.TC001_AccountregistrationTest - Click on Register Link
+15:09:58.063 [main] INFO  TestCases.TC001_AccountregistrationTest - Providing Cutomer Details
+15:09:59.989 [main] INFO  TestCases.TC001_AccountregistrationTest - Validating expected message..
+15:10:10.733 [main] ERROR TestCases.TC001_AccountregistrationTest - Test failed..
+15:19:20.876 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ayush\Documents\workspace\OpencartProject\master.xml
+
+15:19:21.008 [main] INFO  TestCases.TC001_AccountregistrationTest - selenuimGrid:true, OS: Windows, Browser: chrome
+15:19:21.725 [main] INFO  TestCases.TC001_AccountregistrationTest - Grid URL: http://192.168.198.1:4444/wd/hub
+15:19:21.726 [main] INFO  TestCases.TC001_AccountregistrationTest - RemoteDriver instance created for grid in headless mode for Chrome
+15:19:24.154 [main] INFO  TestCases.TC001_AccountregistrationTest - Browser setup completed and application loaded.
+15:19:24.165 [main] INFO  TestCases.TC001_AccountregistrationTest -  ******** Starting TC001_AccountregistrationTest ***********
+15:19:24.248 [main] INFO  TestCases.TC001_AccountregistrationTest - Click on My Account
+15:19:24.876 [main] INFO  TestCases.TC001_AccountregistrationTest - Click on Register Link
+15:19:24.887 [main] INFO  TestCases.TC001_AccountregistrationTest - Providing Cutomer Details
+15:19:26.293 [main] INFO  TestCases.TC001_AccountregistrationTest - Validating expected message..
+15:19:34.078 [main] ERROR TestCases.TC001_AccountregistrationTest - Test failed..
+15:43:28.986 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ayush\Documents\workspace\OpencartProject\master.xml
+
+15:43:29.120 [main] INFO  TestCases.TC001_AccountregistrationTest - selenuimGrid:true, OS: Windows, Browser: chrome
+15:43:29.970 [main] INFO  TestCases.TC001_AccountregistrationTest - Grid URL: http://192.168.198.1:4444/wd/hub
+15:43:29.970 [main] INFO  TestCases.TC001_AccountregistrationTest - RemoteDriver instance created for grid in headless mode for Chrome
+15:43:32.442 [main] INFO  TestCases.TC001_AccountregistrationTest - Browser setup completed and application loaded.
+15:43:32.453 [main] INFO  TestCases.TC001_AccountregistrationTest -  ******** Starting TC001_AccountregistrationTest ***********
+15:48:12.386 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ayush\Documents\workspace\OpencartProject\master.xml
+
+15:48:12.515 [main] INFO  TestCases.TC001_AccountregistrationTest - selenuimGrid:true, OS: Windows, Browser: chrome
+15:48:13.014 [main] INFO  TestCases.TC001_AccountregistrationTest - Grid URL: http://192.168.198.1:4444/wd/hub
+15:48:13.014 [main] INFO  TestCases.TC001_AccountregistrationTest - RemoteDriver instance created for grid in headless mode for Chrome
+15:48:15.574 [main] INFO  TestCases.TC001_AccountregistrationTest - Browser setup completed and application loaded.
+15:48:15.584 [main] INFO  TestCases.TC001_AccountregistrationTest -  ******** Starting TC001_AccountregistrationTest ***********
+15:48:15.665 [main] INFO  TestCases.TC001_AccountregistrationTest - Click on My Account
+15:48:16.303 [main] INFO  TestCases.TC001_AccountregistrationTest - Click on Register Link
+15:48:16.308 [main] INFO  TestCases.TC001_AccountregistrationTest - Providing Cutomer Details
+15:48:16.763 [main] INFO  TestCases.TC001_AccountregistrationTest - Validating expected message..
+15:51:24.042 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ayush\Documents\workspace\OpencartProject\master.xml
+
+15:51:24.190 [main] INFO  TestCases.TC001_AccountregistrationTest - selenuimGrid:true, OS: Windows, Browser: chrome
+15:51:24.763 [main] INFO  TestCases.TC001_AccountregistrationTest - Grid URL: http://192.168.198.1:4444/wd/hub
+15:51:24.763 [main] INFO  TestCases.TC001_AccountregistrationTest - RemoteDriver instance created for grid in headless mode for Chrome
+15:51:27.171 [main] INFO  TestCases.TC001_AccountregistrationTest - Browser setup completed and application loaded.
+15:51:27.181 [main] INFO  TestCases.TC001_AccountregistrationTest -  ******** Starting TC001_AccountregistrationTest ***********
+15:51:27.260 [main] INFO  TestCases.TC001_AccountregistrationTest - Click on My Account
+15:51:27.829 [main] INFO  TestCases.TC001_AccountregistrationTest - Click on Register Link
+15:51:27.831 [main] INFO  TestCases.TC001_AccountregistrationTest - Providing Cutomer Details
+15:51:28.286 [main] INFO  TestCases.TC001_AccountregistrationTest - Validating expected message..
+15:51:29.594 [main] INFO  TestCases.TC002_LoginTest - selenuimGrid:true, OS: Windows, Browser: chrome
+15:51:29.785 [main] INFO  TestCases.TC002_LoginTest - Grid URL: http://192.168.198.1:4444/wd/hub
+15:51:29.785 [main] INFO  TestCases.TC002_LoginTest - RemoteDriver instance created for grid in headless mode for Chrome
+15:51:32.406 [main] INFO  TestCases.TC002_LoginTest - Browser setup completed and application loaded.
+15:51:32.406 [main] INFO  TestCases.TC002_LoginTest - ******** Starting TC002_LoginTest ***********
+15:51:33.935 [main] INFO  TestCases.TC002_LoginTest - ******** Finished TC002_LoginTest ***********
+15:52:17.507 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ayush\Documents\workspace\OpencartProject\master.xml
+
+15:52:17.650 [main] INFO  TestCases.TC001_AccountregistrationTest - selenuimGrid:true, OS: Windows, Browser: chrome
+15:52:18.192 [main] INFO  TestCases.TC001_AccountregistrationTest - Grid URL: http://192.168.198.1:4444/wd/hub
+15:52:18.192 [main] INFO  TestCases.TC001_AccountregistrationTest - RemoteDriver instance created for grid in headless mode for Chrome
+15:52:20.619 [main] INFO  TestCases.TC001_AccountregistrationTest - Browser setup completed and application loaded.
+15:52:20.630 [main] INFO  TestCases.TC001_AccountregistrationTest -  ******** Starting TC001_AccountregistrationTest ***********
+15:52:20.713 [main] INFO  TestCases.TC001_AccountregistrationTest - Click on My Account
+15:52:21.270 [main] INFO  TestCases.TC001_AccountregistrationTest - Click on Register Link
+15:52:21.272 [main] INFO  TestCases.TC001_AccountregistrationTest - Providing Cutomer Details
+15:52:21.754 [main] INFO  TestCases.TC001_AccountregistrationTest - Validating expected message..
+15:52:22.712 [main] INFO  TestCases.TC002_LoginTest - selenuimGrid:true, OS: Windows, Browser: chrome
+15:52:22.957 [main] INFO  TestCases.TC002_LoginTest - Grid URL: http://192.168.198.1:4444/wd/hub
+15:52:22.957 [main] INFO  TestCases.TC002_LoginTest - RemoteDriver instance created for grid in headless mode for Chrome
+15:52:25.530 [main] INFO  TestCases.TC002_LoginTest - Browser setup completed and application loaded.
+15:52:25.531 [main] INFO  TestCases.TC002_LoginTest - ******** Starting TC002_LoginTest ***********
+15:52:27.036 [main] INFO  TestCases.TC002_LoginTest - ******** Finished TC002_LoginTest ***********
+15:53:58.113 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ayush\Documents\workspace\OpencartProject\master.xml
+
+15:53:58.241 [main] INFO  TestCases.TC001_AccountregistrationTest - selenuimGrid:true, OS: Windows, Browser: chrome
+15:53:59.086 [main] INFO  TestCases.TC001_AccountregistrationTest - Grid URL: http://192.168.198.1:4444/wd/hub
+15:53:59.086 [main] INFO  TestCases.TC001_AccountregistrationTest - RemoteDriver instance created for grid in headless mode for Chrome
+15:54:01.496 [main] INFO  TestCases.TC001_AccountregistrationTest - Browser setup completed and application loaded.
+15:54:01.506 [main] INFO  TestCases.TC001_AccountregistrationTest -  ******** Starting TC001_AccountregistrationTest ***********
+15:54:01.588 [main] INFO  TestCases.TC001_AccountregistrationTest - Click on My Account
+15:54:02.272 [main] INFO  TestCases.TC001_AccountregistrationTest - Click on Register Link
+15:54:02.274 [main] INFO  TestCases.TC001_AccountregistrationTest - Providing Cutomer Details
+15:54:03.726 [main] INFO  TestCases.TC001_AccountregistrationTest - Validating expected message..
+15:54:03.860 [main] INFO  TestCases.TC002_LoginTest - selenuimGrid:true, OS: Windows, Browser: chrome
+15:54:04.039 [main] INFO  TestCases.TC002_LoginTest - Grid URL: http://192.168.198.1:4444/wd/hub
+15:54:04.039 [main] INFO  TestCases.TC002_LoginTest - RemoteDriver instance created for grid in headless mode for Chrome
+15:54:06.624 [main] INFO  TestCases.TC002_LoginTest - Browser setup completed and application loaded.
+15:54:06.625 [main] INFO  TestCases.TC002_LoginTest - ******** Starting TC002_LoginTest ***********
+15:54:08.272 [main] INFO  TestCases.TC002_LoginTest - ******** Finished TC002_LoginTest ***********
+15:54:08.404 [main] INFO  TestCases.TC003_LoginDDT - selenuimGrid:true, OS: Windows, Browser: chrome
+15:54:08.599 [main] INFO  TestCases.TC003_LoginDDT - Grid URL: http://192.168.198.1:4444/wd/hub
+15:54:08.599 [main] INFO  TestCases.TC003_LoginDDT - RemoteDriver instance created for grid in headless mode for Chrome
+15:54:11.228 [main] INFO  TestCases.TC003_LoginDDT - Browser setup completed and application loaded.
+15:54:13.358 [main] INFO  TestCases.TC003_LoginDDT - ******** Starting TC003_LoginDDT ***********
+15:54:15.481 [main] INFO  TestCases.TC003_LoginDDT - ******** finished TC003_LoginDDT ***********
+15:54:15.483 [main] INFO  TestCases.TC003_LoginDDT - ******** Starting TC003_LoginDDT ***********
+15:54:36.106 [main] INFO  TestCases.TC003_LoginDDT - ******** finished TC003_LoginDDT ***********
+15:54:36.109 [main] INFO  TestCases.TC003_LoginDDT - ******** Starting TC003_LoginDDT ***********
+15:54:57.714 [main] INFO  TestCases.TC003_LoginDDT - ******** finished TC003_LoginDDT ***********
+15:54:57.717 [main] INFO  TestCases.TC003_LoginDDT - ******** Starting TC003_LoginDDT ***********
+15:55:19.265 [main] INFO  TestCases.TC003_LoginDDT - ******** finished TC003_LoginDDT ***********
+15:55:19.269 [main] INFO  TestCases.TC003_LoginDDT - ******** Starting TC003_LoginDDT ***********
+15:55:21.789 [main] INFO  TestCases.TC003_LoginDDT - ******** finished TC003_LoginDDT ***********
+17:12:24.355 [main] INFO  TestCases.TC001_AccountregistrationTest - selenuimGrid:true, OS: Windows, Browser: chrome
+17:12:26.112 [main] INFO  TestCases.TC001_AccountregistrationTest - Grid URL: http://192.168.198.1:4444/wd/hub
+17:12:26.112 [main] INFO  TestCases.TC001_AccountregistrationTest - RemoteDriver instance created for grid in headless mode for Chrome
+17:12:29.189 [main] INFO  TestCases.TC001_AccountregistrationTest - Browser setup completed and application loaded.
+17:12:29.204 [main] INFO  TestCases.TC001_AccountregistrationTest -  ******** Starting TC001_AccountregistrationTest ***********
+17:12:29.325 [main] INFO  TestCases.TC001_AccountregistrationTest - Click on My Account
+17:12:30.183 [main] INFO  TestCases.TC001_AccountregistrationTest - Click on Register Link
+17:12:30.188 [main] INFO  TestCases.TC001_AccountregistrationTest - Providing Cutomer Details
+17:12:32.184 [main] INFO  TestCases.TC001_AccountregistrationTest - Validating expected message..
+17:12:32.464 [main] INFO  TestCases.TC002_LoginTest - selenuimGrid:true, OS: Windows, Browser: chrome
+17:12:32.828 [main] INFO  TestCases.TC002_LoginTest - Grid URL: http://192.168.198.1:4444/wd/hub
+17:12:32.828 [main] INFO  TestCases.TC002_LoginTest - RemoteDriver instance created for grid in headless mode for Chrome
+17:12:35.425 [main] INFO  TestCases.TC002_LoginTest - Browser setup completed and application loaded.
+17:12:35.426 [main] INFO  TestCases.TC002_LoginTest - ******** Starting TC002_LoginTest ***********
+17:12:37.360 [main] INFO  TestCases.TC002_LoginTest - ******** Finished TC002_LoginTest ***********
+17:33:09.738 [main] INFO  TestCases.TC001_AccountregistrationTest - selenuimGrid:false, OS: Windows, Browser: chrome
+17:33:14.361 [main] INFO  TestCases.TC001_AccountregistrationTest - Browser setup completed and application loaded.
+17:33:14.383 [main] INFO  TestCases.TC001_AccountregistrationTest -  ******** Starting TC001_AccountregistrationTest ***********
+17:33:14.526 [main] INFO  TestCases.TC001_AccountregistrationTest - Click on My Account
+17:33:15.224 [main] INFO  TestCases.TC001_AccountregistrationTest - Click on Register Link
+17:33:15.227 [main] INFO  TestCases.TC001_AccountregistrationTest - Providing Cutomer Details
+17:33:16.854 [main] INFO  TestCases.TC001_AccountregistrationTest - Validating expected message..
+17:33:17.146 [main] INFO  TestCases.TC002_LoginTest - selenuimGrid:false, OS: Windows, Browser: chrome
+17:33:20.400 [main] INFO  TestCases.TC002_LoginTest - Browser setup completed and application loaded.
+17:33:20.402 [main] INFO  TestCases.TC002_LoginTest - ******** Starting TC002_LoginTest ***********
+17:33:22.056 [main] INFO  TestCases.TC002_LoginTest - ******** Finished TC002_LoginTest ***********
+17:52:10.406 [main] INFO  TestCases.TC001_AccountregistrationTest - selenuimGrid:false, OS: Windows, Browser: chrome
+17:52:14.250 [main] INFO  TestCases.TC001_AccountregistrationTest - Browser setup completed and application loaded.
+17:52:14.264 [main] INFO  TestCases.TC001_AccountregistrationTest -  ******** Starting TC001_AccountregistrationTest ***********
+17:52:14.377 [main] INFO  TestCases.TC001_AccountregistrationTest - Click on My Account
+17:52:15.071 [main] INFO  TestCases.TC001_AccountregistrationTest - Click on Register Link
+17:52:15.074 [main] INFO  TestCases.TC001_AccountregistrationTest - Providing Cutomer Details
+17:52:16.721 [main] INFO  TestCases.TC001_AccountregistrationTest - Validating expected message..
+17:52:17.022 [main] INFO  TestCases.TC002_LoginTest - selenuimGrid:false, OS: Windows, Browser: chrome
+17:52:20.327 [main] INFO  TestCases.TC002_LoginTest - Browser setup completed and application loaded.
+17:52:20.329 [main] INFO  TestCases.TC002_LoginTest - ******** Starting TC002_LoginTest ***********
+17:52:22.218 [main] INFO  TestCases.TC002_LoginTest - ******** Finished TC002_LoginTest ***********
+18:14:52.646 [main] INFO  TestCases.TC001_AccountregistrationTest - selenuimGrid:false, OS: Windows, Browser: chrome
+18:14:56.430 [main] INFO  TestCases.TC001_AccountregistrationTest - Browser setup completed and application loaded.
+18:14:56.451 [main] INFO  TestCases.TC001_AccountregistrationTest -  ******** Starting TC001_AccountregistrationTest ***********
+18:14:56.563 [main] INFO  TestCases.TC001_AccountregistrationTest - Click on My Account
+18:14:57.236 [main] INFO  TestCases.TC001_AccountregistrationTest - Click on Register Link
+18:14:57.238 [main] INFO  TestCases.TC001_AccountregistrationTest - Providing Cutomer Details
+18:14:58.874 [main] INFO  TestCases.TC001_AccountregistrationTest - Validating expected message..
+18:14:59.113 [main] INFO  TestCases.TC002_LoginTest - selenuimGrid:false, OS: Windows, Browser: chrome
+18:15:02.374 [main] INFO  TestCases.TC002_LoginTest - Browser setup completed and application loaded.
+18:15:02.376 [main] INFO  TestCases.TC002_LoginTest - ******** Starting TC002_LoginTest ***********
+18:15:04.135 [main] INFO  TestCases.TC002_LoginTest - ******** Finished TC002_LoginTest ***********
