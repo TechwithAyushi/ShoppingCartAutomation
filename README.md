@@ -47,7 +47,8 @@ This project demonstrates a robust Hybrid Test Automation Framework for testing 
 # 🚀 Getting Started
 
 # Prerequisites
-* Java 11+
+
+* JDK 24
 
 * Maven
 
