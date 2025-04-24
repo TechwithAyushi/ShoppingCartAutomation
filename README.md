@@ -2,21 +2,21 @@
 This project demonstrates a robust Hybrid Test Automation Framework for testing the ShoppingCart application. It combines the strengths of Data-Driven, Modular, and Keyword-Driven approaches using Selenium WebDriver, TestNG, Apache POI, Docker, Jenkins, and Git.
 
 # 🔧 Technologies Used
-Java
+* Java
 
-Selenium WebDriver
+* Selenium WebDriver
 
-TestNG
+* TestNG
 
-Maven
+* Maven
 
-Jenkins
+* Jenkins
 
-Docker & Selenium Grid
+* Docker & Selenium Grid
 
-Apache POI (for Excel)
+* Apache POI (for Excel)
 
-Git & GitHub
+* Git & GitHub
 
 # 📌 Project Workflow
 
@@ -48,9 +48,14 @@ Git & GitHub
 
 # Prerequisites
 * Java 11+
-Maven
-Git
-Docker (for Selenium Grid)
-Jenkins (for CI)
-Chrome, Firefox, or Edge browsers
+
+* Maven
+
+* Git
+
+* Docker (for Selenium Grid)
+  
+* Jenkins (for CI)
+  
+* Chrome, Firefox, or Edge browsers
 
