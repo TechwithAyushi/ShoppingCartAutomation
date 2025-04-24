@@ -1,7 +1,7 @@
 # 🛒 Hybrid Framework Automation - ShoppingCart Automation
 This project demonstrates a robust Hybrid Test Automation Framework for testing the ShoppingCart application. It combines the strengths of Data-Driven, Modular, and Keyword-Driven approaches using Selenium WebDriver, TestNG, Apache POI, Docker, Jenkins, and Git.
 
-# 🔧 Technologies Used
+# Technologies Used
 * Java
 
 * Selenium WebDriver
@@ -18,7 +18,7 @@ This project demonstrates a robust Hybrid Test Automation Framework for testing 
 
 * Git & GitHub
 
-# 📌 Project Workflow
+# Project Workflow
 
 **1) Test Case Creation:** Automated functional and regression test cases for ShoppingCart features.
 
@@ -44,7 +44,7 @@ This project demonstrates a robust Hybrid Test Automation Framework for testing 
 
 **12) CI/CD Integration with Jenkins:** Automated test execution through Jenkins pipelines to ensure continuous integration.
 
-# 🚀 Getting Started
+# Getting Started
 
 # Prerequisites
 
